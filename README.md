@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # week10day2
 # week10day2
 # week10day2
+# week10day2
